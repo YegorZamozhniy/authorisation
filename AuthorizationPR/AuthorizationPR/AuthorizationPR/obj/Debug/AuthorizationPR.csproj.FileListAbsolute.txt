@@ -1,0 +1,15 @@
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\bin\Debug\AuthorizationPR.exe.config
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\bin\Debug\AuthorizationPR.exe
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\bin\Debug\AuthorizationPR.pdb
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.csprojAssemblyReference.cache
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.Authorization.resources
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.Main.resources
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.Properties.Resources.resources
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.csproj.GenerateResource.cache
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.csproj.CoreCompileInputs.cache
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.exe
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.pdb
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.Admin.resources
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.Registration.resources
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.User.resources
+C:\Users\TommyHard\Desktop\AuthorizationPR\AuthorizationPR\AuthorizationPR\obj\Debug\AuthorizationPR.Details.resources
